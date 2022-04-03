@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @wilsondala
 - 👀 I'm interested in collaborating on my projects.
-- 🌱 I'm currently learning HTML, CSS
+- 🌱 I'm currently learning HTML, CSS, javaScript,React
 - 💞️ I'm looking to collaborate on Fornt-end
 - 📫 How to reach me (https://www.linkedin.com/in/wilson-ndembuza-dala/)[LinkdIn]
 
