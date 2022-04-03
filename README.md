@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @wilsondala
+- 👋 Hi, I'm Wilson Dala
 - 👀 I'm interested in collaborating on my projects.
 - 🌱 I'm currently learning HTML, CSS, javaScript,React
 - 💞️ I'm looking to collaborate on Fornt-end
