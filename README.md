@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Wilson Dala
-- 👀 I'm interested in HTML, CSS, javaScript,React, TypeScript, Python.
+- 👀 I'm interested in HTML, CSS, javaScript,React, TypeScript, Delphi, Bootstrap, Angular.js.
 - 🌱 I'm currently learning Cursando profisão Desenvolvedor Full Stack Python
 - 💞️ I'm looking to collaborate on Fornt-end
 - 📫 How to reach me (https://www.linkedin.com/in/wilson-ndembuza-dala/)[LinkdIn]
